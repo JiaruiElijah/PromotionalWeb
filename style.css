@@ -4,7 +4,8 @@ p.ex3 {display: block;}
 p.ex4 {display: inline-block;}
 
 p.ex5 {
-	font-size: 15px;
+	font-size: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
 	text-align: left;
 	color: white;
 	float: right;width: 750px;
@@ -51,7 +52,7 @@ div{
 body {
 	margin: 1% 1%;
 	border: 2px solid #666;
-	height: 2300px;
+	height: 2400px;
 	padding: 5px;
 	background-color: black;
 	font-family: monospace;
